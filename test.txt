@@ -1,0 +1,2 @@
+Python is known for it's simplicity and readability.
+Python has large community.
